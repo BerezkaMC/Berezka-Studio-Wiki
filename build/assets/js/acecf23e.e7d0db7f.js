@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdocusaurus=globalThis.webpackChunkdocusaurus||[]).push([[903],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/Berezka-Studio-Wiki/blog","blogTitle":"Blog","authorsListPath":"/Berezka-Studio-Wiki/blog/authors"}')}}]);
