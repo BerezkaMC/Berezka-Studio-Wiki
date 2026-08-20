@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdocusaurus=globalThis.webpackChunkdocusaurus||[]).push([[643],{192(s,o,r){r.d(o,{A:()=>l});r(6540);var u=r(8466),c=r(4848);const l={...u.A,TextColor:function({children:s,color:o="red"}){return(0,c.jsx)("span",{style:{color:o},children:s})}}}}]);
