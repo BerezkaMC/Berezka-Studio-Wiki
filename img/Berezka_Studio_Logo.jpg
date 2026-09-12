@@ -20,7 +20,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <meta name="theme-color" content="#2e3138">
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="f1ENbkzZQYPQzcSOkb3rvcNtBQsOimGO4qHRx9RZr4wFCoUsqzjTYBwJ_hZHdYpiARcork8DeVU9aU2f0PG2aA" />
+<meta name="csrf-token" content="ZV7pLqZAqTgJUDp0te_czUR61XnNuWNB6eQNxpPaKHMfBWFsQaE728WUAOxjJ70ShgD43Iwwe5o2LJGel3Ixlw" />
 <meta name="action-cable-url" content="/cable" />
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" type="image/svg+xml" href="https://c.staticblitz.com/assets/favicon_sb-861fe1b85c0dc928750c62de15fed96fc75e57ee366bd937bad17a3938917b3f.svg">
@@ -29,8 +29,8 @@
 
 
 <style>html {color: #ccc; background-color: #202327}</style>
-<meta name="sentry-trace" content="f3460b60d45a455db8449ca9dba45a91-8302f4f4e2eb4321-1">
-<meta name="baggage" content="sentry-trace_id=f3460b60d45a455db8449ca9dba45a91,sentry-sample_rate=1.0,sentry-sample_rand=0.609764,sentry-sampled=true,sentry-environment=production,sentry-release=b803ac993e75b2dc9378f53b79b5ca478fc03727,sentry-public_key=dffef1dcba0b54d4b235736ebd9c126d">
+<meta name="sentry-trace" content="5389aabf28fb49b791b6819a1628c3cb-e9b55b6c4a6c439f-1">
+<meta name="baggage" content="sentry-trace_id=5389aabf28fb49b791b6819a1628c3cb,sentry-sample_rate=1.0,sentry-sample_rand=0.125708,sentry-sampled=true,sentry-environment=production,sentry-release=b803ac993e75b2dc9378f53b79b5ca478fc03727,sentry-public_key=dffef1dcba0b54d4b235736ebd9c126d">
 <link rel="stylesheet" href="https://c.staticblitz.com/assets/vite/editor-DAhhiBj7.css" defer="defer" />
 <link rel="stylesheet" href="https://c.staticblitz.com/assets/pack/client-c36b53b8ace6a.css" />
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WM95FBXP');</script>
